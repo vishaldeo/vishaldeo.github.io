@@ -1,6 +1,11 @@
 .jumbotron {
+<<<<<<< HEAD
     background-image: url("/images/nasa.jpg");
     background-size: 100% 100%;
+=======
+    background-image: url("nasa.jpg");
+    background-size: 100% 100%; 
+>>>>>>> 4f202d7128a312099c0cc1294668b288ea926ad0
     text-align: center;
   }
 
